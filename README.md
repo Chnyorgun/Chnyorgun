@@ -48,7 +48,7 @@ Kod yazarken hem teknik olarak gelişmeyi hem de kullanıcı deneyimini daha iyi
 ### 📚 Şu Anda Kendimi Geliştirdiğim Konular
 
 - Java ile daha temiz ve sürdürülebilir kod yazma
-- Android Studio ile modern mobil uygulama geliştirme
+- Modern mobil uygulama geliştirme
 - Web projelerinde frontend ve backend yapısını daha iyi anlama
 - Veritabanı tasarımı ve veri yönetimi
 - GitHub üzerinden proje yönetimi ve versiyon kontrolü
@@ -65,8 +65,7 @@ Uzun vadede mobil uygulamalar, web sistemleri ve yapay zeka destekli projeler ü
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Chnyorgun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chnyorgun&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chnyorgun&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
