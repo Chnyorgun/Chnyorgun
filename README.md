@@ -150,10 +150,12 @@ In the long term, I aim to work more professionally on mobile applications, web 
 ### 📫 Contact Me
 
 <p>
-  <a href="mailto:chnyorgun@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chnyorgun@gmail.com">
+    <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Chnyorgun">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+📧 **E-Mail:** chnyorgun@gmail.com
