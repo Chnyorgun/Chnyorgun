@@ -34,6 +34,9 @@ Kod yazarken hem teknik olarak gelişmeyi hem de kullanıcı deneyimini daha iyi
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -62,8 +65,8 @@ Uzun vadede mobil uygulamalar, web sistemleri ve yapay zeka destekli projeler ü
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Chnyorgun&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chnyorgun&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Chnyorgun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chnyorgun&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
